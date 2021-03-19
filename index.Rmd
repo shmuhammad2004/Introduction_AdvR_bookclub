@@ -1,6 +1,6 @@
 --- 
 title: "Advanced R Book Club (Cohort 5)"
-author: "The R4DS Online Learning Community"
+author: "Shamsuddeen Hassan Muhammad"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book

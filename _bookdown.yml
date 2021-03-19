@@ -1,7 +1,7 @@
 book_filename: "bookclub-mshiny"
 repo: https://github.com/r4ds/bookclub-mshiny
 edit: "https://github.com/r4ds/bookclub-mshiny/edit/main/%s"
-output_dir: "_book"
+output_dir: "doc"
 delete_merged_file: true
 language:
   ui:
