@@ -1,0 +1,152 @@
+--- 
+title: "Advanced R Book Club (Cohort 5)"
+author: "The R4DS Online Learning Community"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: book.bib
+biblio-style: apalike
+link-citations: yes
+github-repo: r4ds/bookclub-mshiny
+description: "This is the product of the R4DS Online Learning Community's Book Club."
+---
+
+
+# Introduction {-}
+
+- Agenda
+
+    - Welcome 
+
+    - Book discussion format
+
+    - Introduce ourselves
+
+    - Goal for the book
+
+    - Brief introduction to the book
+
+    - Book Structure
+
+    - Chapter Structure
+
+    - Chapter Volunteers
+
+    - Resources
+
+
+## Welcome! {-}
+
+
+- We will be meeting to discuss a different chapter of Advanced R by Hadley Wickham every Tuesday at 18:30 UCT for the first two weeks (17:30 UTC after).
+
+- Presentations will be recorded, and will be available on the [R4DS Online Learning Community YouTube Channel](https://r4ds.io/youtube).
+
+
+- Slides and schedule will be posted on the [Advanced R repo](https://github.com/r4ds/bookclub-Advanced_R). 
+
+
+- [Advance R Solutions](https://r4ds.github.io/bookclub-Advanced_R/QandA/docs/welcome.html) from the first cohort. Another [Advanced R Solutions](https://advanced-r-solutions.rbind.io/). 
+
+-  This book club follows the  [R4DS Online Learning Community Code of Conduct](https://www.rfordatasci.com/conduct/)
+ 
+
+
+## Book discussion format {-}
+
+
+- Each week, a volunteer will present a chapter from the book.
+
+  -  **This is the best way to learn the material.**
+
+- Presentations will usually consist of a review of the material, a discussion, and/or a demonstration of the principles presented in that chapter.
+
+- More information about how to present is available in the [github repo](https://github.com/r4ds/bookclub-Advanced_R).
+
+- You can share questions, observations, etc in the #book_club-advanced_r channel on the slack throughout the book club and beyond
+
+
+
+## Introduce Ourselves {-}
+
+- Who you are and what is your goal for participating in this bookclub.
+
+
+## Goal for the Book {-}
+
+
+>This book is my attempt to pass on what I’ve learned so that you can understand the intricacies of R as quickly and painlessly as possible. Reading it will help you avoid the mistakes I’ve made and dead ends I’ve gone down, and will teach you useful tools, techniques, and idioms that can help you to attack many types of problems. In the process, I hope to show that, despite its sometimes frustrating quirks, R is, at its heart, an elegant and beautiful language, well tailored for data science.” - Introduction, Advanced R
+
+
+
+## Brief introduction to the book {-}
+
+- Be familiar with the foundations of R. 
+
+    - You will understand complex data types and the best ways to perform operations on them. 
+    
+    - You will have a deep understanding of how functions work, you’ll know what environments are, and how to make use of the condition system.
+    
+
+- Functional programming
+
+    - Understand what functional programming means, 
+    
+    - Why it is a useful tool for data science,
+    
+- Know about R’s rich variety of object-oriented systems. 
+
+- Metaprogramming. 
+
+   - You’ll be able to create functions that use tidy evaluation,     saving typing and creating elegant code to express important operations. 
+     
+ - You’ll also understand the dangers and when to avoid it.
+
+- Have a good intuition for which operations in R are slow or use a lot of memory. 
+
+
+## Book Structure {-}
+
+- Sections
+
+    - Foundations
+
+    - Functional programming
+
+    - Object-oriented programming
+
+    - Metaprogramming Techniques
+    
+    - Techniques (Debugging,Measuring performance,Improving performance, Rewritting Rcode in C++ )
+
+## Chapter Structure {-}
+
+- Introduction
+
+    - Chapter topics and goals
+
+    - Pre-quiz
+
+- Chapter outline
+
+- Prerequisites (sometimes)
+
+- Content with Exercises 
+
+- Quiz Answers
+
+## Chapter Volunteers {-}
+
+- Chapter 2: Names and values
+- Chapter 3: Vectors
+- Chapter 4: Subsetting
+- Chapter 5: Control Flow
+- Chapter 6: Functions
+- Chapter 7: Enviroments
+- Chapter 8: Conditions 
+
+
+## Resources {-}
+
+- Happy Git with R book
+- [Git for Book Clubs](https://www.youtube.com/watch?v=d41oc2OMAuI&list=PL3x6DOfs2NGhS_PhklqT6PwK1Fh7blgP2&ab_channel=R4DSOnlineLearningCommunity)
